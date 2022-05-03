@@ -15,7 +15,7 @@
 	<tr><td>Win!</td><td>Win!</td><td>Win!</td><td>Win!</td><td>Win!</td><td>Win!</td></tr>
 </table>
 <h3>Watch a match here:</h3>
-	<video src = "2022NatSemi.MOV" width = "50%" controls loop>
+	<video src = "2022NatSemi.MOV.zip" width = "50%" controls loop>
 	</video>
 </body>
 </html>
